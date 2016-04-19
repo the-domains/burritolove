@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 21:03:49 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<img src="https://media4.giphy.com/media/PFptUggwugJkk/200.gif">]]></description>
             <link>http://burritolove.com/7f459817-bbfc-43f7-9c55-a067ea3da021/index.html</link>
             <guid isPermaLink="false">7f459817-bbfc-43f7-9c55-a067ea3da021</guid>
+            <pubDate>Tue, 19 Apr 2016 21:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media2.giphy.com/media/mbacbBW9gNBxm/200.gif">]]></description>
+            <link>http://burritolove.com/f0961cb3-d917-4012-9cfc-f925e63245b2/index.html</link>
+            <guid isPermaLink="false">f0961cb3-d917-4012-9cfc-f925e63245b2</guid>
             <pubDate>Tue, 19 Apr 2016 21:02:55 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://media.giphy.com/media/6587R2Pda6iFW/giphy.gif">]]></description>
             <link>http://burritolove.com/8483f381-340d-4bd8-a203-dbea59a6e40f/index.html</link>
             <guid isPermaLink="false">8483f381-340d-4bd8-a203-dbea59a6e40f</guid>
-            <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.giphy.com/media/NEdjpNzhvtxKM/giphy.gif">]]></description>
-            <link>http://burritolove.com/9d98f047-dba9-4674-8fcb-1ee9960ae8e4/index.html</link>
-            <guid isPermaLink="false">9d98f047-dba9-4674-8fcb-1ee9960ae8e4</guid>
             <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
         </item>
     </channel>
