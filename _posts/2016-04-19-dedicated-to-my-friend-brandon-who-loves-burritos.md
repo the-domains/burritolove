@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dedicated to my burrito loving friend Brandon.
-datePublished: '2016-04-19T20:26:53.390Z'
-dateModified: '2016-04-19T20:22:56.047Z'
+datePublished: '2016-04-19T20:28:45.251Z'
+dateModified: '2016-04-19T20:28:40.958Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-dedicated-to-my-friend-brandon-who-loves-burritos.md
@@ -29,3 +29,5 @@ A haiku:
 Brandon loves his burritos
 
 breakfast, lunch, dinner
+
+forever dedicated.
