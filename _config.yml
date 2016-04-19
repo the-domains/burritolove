@@ -1,0 +1,28 @@
+name: BurritoLove
+favicon: null
+layout_spectrum: 0.8914658376015723
+typography_spectrum: 0.3423178519587964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1968572256155312
+  lightness: 0.3652785492595285
+  saturation: 0.7801749508362263
+  rhythmicContrast: 0.5047604073770344
+purpose: []
