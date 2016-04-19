@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 21:03:29 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
             <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
             <pubDate>Tue, 19 Apr 2016 20:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media4.giphy.com/media/PFptUggwugJkk/200.gif">]]></description>
+            <link>http://burritolove.com/7f459817-bbfc-43f7-9c55-a067ea3da021/index.html</link>
+            <guid isPermaLink="false">7f459817-bbfc-43f7-9c55-a067ea3da021</guid>
+            <pubDate>Tue, 19 Apr 2016 21:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do you like burritos? Of course you do! Support the Honors College this Friday from 4-9 at burrito shack! #burritolove]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://media.giphy.com/media/NEdjpNzhvtxKM/giphy.gif">]]></description>
             <link>http://burritolove.com/9d98f047-dba9-4674-8fcb-1ee9960ae8e4/index.html</link>
             <guid isPermaLink="false">9d98f047-dba9-4674-8fcb-1ee9960ae8e4</guid>
-            <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media1.giphy.com/media/lfI3HytbkYq1q/200.gif">]]></description>
-            <link>http://burritolove.com/7db798fa-070c-4dc1-8175-39c37d356db2/index.html</link>
-            <guid isPermaLink="false">7db798fa-070c-4dc1-8175-39c37d356db2</guid>
             <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
         </item>
     </channel>
