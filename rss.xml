@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:57:50 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
             <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
             <pubDate>Tue, 19 Apr 2016 20:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/NEdjpNzhvtxKM/giphy.gif">]]></description>
+            <link>http://burritolove.com/9d98f047-dba9-4674-8fcb-1ee9960ae8e4/index.html</link>
+            <guid isPermaLink="false">9d98f047-dba9-4674-8fcb-1ee9960ae8e4</guid>
+            <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BEXQhInR-JI/?tagged=burritolove</link>
             <guid isPermaLink="false">0d9b8b12-b8f8-4d98-a2ff-967ac15d3e94</guid>
             <pubDate>Tue, 19 Apr 2016 20:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-01/enhanced/webdr07/28/14/enhanced-buzz-6620-1390937391-0.jpg">]]></description>
-            <link>http://burritolove.com/62637acc-30cf-4cba-a79c-cab6b5601ecf/index.html</link>
-            <guid isPermaLink="false">62637acc-30cf-4cba-a79c-cab6b5601ecf</guid>
-            <pubDate>Tue, 19 Apr 2016 20:45:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
