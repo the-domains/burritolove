@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 21:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 21:03:27 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
             <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
             <pubDate>Tue, 19 Apr 2016 20:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do you like burritos? Of course you do! Support the Honors College this Friday from 4-9 at burrito shack! #burritolove]]></title>
+            <description><![CDATA[<article><h1>Do you like burritos? Of course you do! Support the Honors College this Friday from 4-9 at burrito shack! #burritolove</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/513475d60a37cc240ef7860a6844a1b45ffd821c.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BD3mPVqvTCa/?tagged=burritolove</link>
+            <guid isPermaLink="false">0ce6b739-6eeb-4a4d-b35a-bd029ca0f525</guid>
+            <pubDate>Tue, 19 Apr 2016 21:02:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My feelings, always. 🌯🌯🌯🌯🌯 #burritolove]]></title>
@@ -68,13 +75,6 @@
             <link>http://burritolove.com/7db798fa-070c-4dc1-8175-39c37d356db2/index.html</link>
             <guid isPermaLink="false">7db798fa-070c-4dc1-8175-39c37d356db2</guid>
             <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.giphy.com/media/cs2qZnZmq0Nj2/giphy.gif">]]></description>
-            <link>http://burritolove.com/47723e30-d5f9-4306-b486-1aa0427a88a1/index.html</link>
-            <guid isPermaLink="false">47723e30-d5f9-4306-b486-1aa0427a88a1</guid>
-            <pubDate>Tue, 19 Apr 2016 20:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
