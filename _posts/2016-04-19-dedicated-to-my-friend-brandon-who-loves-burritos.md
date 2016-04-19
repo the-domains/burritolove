@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Dedicated to my burrito loving friend Brandon.
-datePublished: '2016-04-19T21:14:23.162Z'
-dateModified: '2016-04-19T21:13:56.408Z'
+description: For my burrito loving friend Brandon.
+datePublished: '2016-04-19T21:21:26.624Z'
+dateModified: '2016-04-19T21:21:11.319Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-dedicated-to-my-friend-brandon-who-loves-burritos.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: dedicated-to-my-friend-brandon-who-loves-burritos/index.html
-_type: WebPage
+_type: Article
 
 ---
-Dedicated to my burrito loving friend Brandon.
+For my burrito loving friend Brandon.
 
 A haiku:
 
