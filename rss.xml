@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BurritoLove]]></title>
-        <description><![CDATA[BurritoLove]]></description>
+        <title><![CDATA[Burrito Love]]></title>
+        <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 19:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:00:50 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dedicated to my friend Brandon, who loves Burritos.</p>]]></description>
+            <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
+            <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
+            <pubDate>Tue, 19 Apr 2016 20:00:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/originals/7d/25/cb/7d25cb66b18e1a6fbada9f630e84e2db.gif">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article></article>]]></description>
             <link>https://www.tumblr.com/tagged/burrito</link>
             <guid isPermaLink="false">17557760-7678-4233-af0b-ab2630e362eb</guid>
-            <pubDate>Tue, 19 Apr 2016 19:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/a3/3c/44/a33c445fe52176f4d9d896b7d5151084.jpg">]]></description>
-            <link>http://burritolove.com/3655bd8a-ddd1-442d-9686-a242d65dfe50/index.html</link>
-            <guid isPermaLink="false">3655bd8a-ddd1-442d-9686-a242d65dfe50</guid>
             <pubDate>Tue, 19 Apr 2016 19:51:35 GMT</pubDate>
         </item>
     </channel>
