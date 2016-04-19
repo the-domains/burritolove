@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:57:14 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
             <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
             <pubDate>Tue, 19 Apr 2016 20:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media1.giphy.com/media/lfI3HytbkYq1q/200.gif">]]></description>
+            <link>http://burritolove.com/7db798fa-070c-4dc1-8175-39c37d356db2/index.html</link>
+            <guid isPermaLink="false">7db798fa-070c-4dc1-8175-39c37d356db2</guid>
+            <pubDate>Tue, 19 Apr 2016 20:57:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-01/enhanced/webdr07/28/14/enhanced-buzz-6620-1390937391-0.jpg">]]></description>
             <link>http://burritolove.com/62637acc-30cf-4cba-a79c-cab6b5601ecf/index.html</link>
             <guid isPermaLink="false">62637acc-30cf-4cba-a79c-cab6b5601ecf</guid>
-            <pubDate>Tue, 19 Apr 2016 20:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Mexican-Food Expert Says: 'The Diversity of Burritos Is Mind-Blowing']]></title>
-            <description><![CDATA[<article><h1>Our Mexican-Food Expert Says: 'The Diversity of Burritos Is Mind-Blowing'</h1><p>Burrito Bracket On Friday, we posted a piece about FiveThirtyEight's search for America's best burrito. It focused on how we chose the 16 restaurants representing California in our Burrito Bracket. Gustavo Arellano, the Burrito Selection Committee member we call "El Californiano," scouted America's greatest burrito state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d3ff5ee56455dbe124b2307a4a1967bf0cb2dc.png"></article>]]></description>
-            <link>http://fivethirtyeight.com/datalab/our-mexican-food-expert-says-the-diversity-of-burritos-is-mind-blowing/</link>
-            <guid isPermaLink="false">8bc4b012-72f9-4029-a603-3604188f2b77</guid>
             <pubDate>Tue, 19 Apr 2016 20:45:04 GMT</pubDate>
         </item>
     </channel>
