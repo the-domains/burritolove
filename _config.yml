@@ -2,6 +2,7 @@ name: BurritoLove
 favicon: null
 layout_spectrum: 0.8914658376015723
 typography_spectrum: 0.3423178519587964
+title: Burrito Love
 cta:
   domain: null
   bucket: null
