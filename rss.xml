@@ -4,7 +4,7 @@
         <description><![CDATA[Burrito Love]]></description>
         <link>http://burritolove.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:54:52 GMT</lastBuildDate>
         <atom:link href="http://burritolove.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://burritolove.com/dedicated-to-my-friend-brandon-who-loves-burritos/index.html</link>
             <guid isPermaLink="false">ad0c6698-5c5d-400f-b53a-33745ad0e3d3</guid>
             <pubDate>Tue, 19 Apr 2016 20:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/yooi5qeA3mDEQ/giphy.gif">]]></description>
+            <link>http://burritolove.com/19d4d692-2e0c-4530-bb7f-d250ad70a761/index.html</link>
+            <guid isPermaLink="false">19d4d692-2e0c-4530-bb7f-d250ad70a761</guid>
+            <pubDate>Tue, 19 Apr 2016 20:54:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kay's has your cure to your thirsty Thursday activities... with the too much to drink last night burrito! Dine in or take out we promise this bad boy will hit the spot! Eggs, diced bacon, diced chicken fried steak and cheese rolled up in one huge tortilla and covered with our carnivore county gravy! #toomuchtodrink #burritolove #wheninorcutt #partiedlikerockstars #hungover #cureall #kaysgrub #wheninorcutt #breakfasttime]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://s3.amazonaws.com/chipotle_production/spree/products/366/product/loomstate_chipotle_I_love_burittos_640x450.jpg?1383005376">]]></description>
             <link>http://burritolove.com/abcd7fe3-56ff-4979-b431-adee9bab4f16/index.html</link>
             <guid isPermaLink="false">abcd7fe3-56ff-4979-b431-adee9bab4f16</guid>
-            <pubDate>Tue, 19 Apr 2016 20:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I love Burritos]]></title>
-            <description><![CDATA[<article><h1>I love Burritos</h1><p>This video was uploaded from an Android phone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e12a7e7c3fe0965810efe09d36f031e69ff097c9.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=aSscJ3sDrkE</link>
-            <guid isPermaLink="false">80e6fe92-9e0d-4ee7-9469-cfe30ec53e9e</guid>
             <pubDate>Tue, 19 Apr 2016 20:45:04 GMT</pubDate>
         </item>
     </channel>
